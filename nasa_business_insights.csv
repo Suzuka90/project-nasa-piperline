@@ -1,0 +1,5 @@
+page_type,richieste,bandwidth_medio,errori,error_rate_pct
+other,3960,12334.0,1316,33.23
+image,2084,12678.0,696,33.4
+home,2004,12399.0,684,34.13
+api,1952,12501.0,652,33.4
